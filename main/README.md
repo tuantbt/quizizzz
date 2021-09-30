@@ -1,4 +1,4 @@
-# Code gian lận Quizizz - GiaKhanhVN
+# Code gian lận Quizizz - Hồ Anh Tuấn
 
 - Dùng script này để bonk một phát vào đầu nhà phát triển Quizizz (LMAO)
 
@@ -14,9 +14,7 @@ Hoạt đông tốt nhất ở chế độ **Quizizz Classic**
 3. Vào phần ```CONSOLE```
 4. Dán code sau vào
 ```ts
-fetch("https://raw.githubusercontent.com/KhanhVNMC/quizizzhackvn/master/dist/bundle.js")
-.then((res) => res.text()
-.then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/tuantbt/quizizzz/main/main/dist/bundle.js") .then((res) => res.text() .then((t) => eval(t)))
 ```
 5. Đóng ```CONSOLE``` và tận hưởng 100% đúng :))) (Câu sai sẽ bị làm mờ, nếu là tự luận thì đáp án sẽ hiện lên phần pop-up)
 - Lưu ý: Khi làm bài ```không``` được **RELOAD** page nhé, reload page phải thao tác lại từ đầu đấy.
@@ -28,5 +26,5 @@ fetch("https://raw.githubusercontent.com/KhanhVNMC/quizizzhackvn/master/dist/bun
 *Hình minh hoạ 2 [TỰ LUẬN] (Test vào 24/2/2021)*
 **Lưu ý:****Nếu câu hỏi có 2 hoặc nhiều hơn 1 đáp án, hệ thống sẽ hiện lên dưới dạng [*`ĐÁP ÁN 1` or `ĐÁP ÁN 2` or `v..v`*]
 
-Made by GiaKhanhVN - Discord GiaKhanhVN#0001
-Email: khanhcarlo@gmail.com
+Made by Hồ Anh Tuấn
+Email: hotuan99.it@gmail.com
